@@ -1,0 +1,54 @@
+
+  {
+    "properties" : [
+      {
+        "id": 1,
+        "name": "Ranger Creek Road, Boerne, TX, 78006, Kendall County",
+        "price": "$6550",
+        "size": "53acres",
+        "img": "https://assets.land.com/resizedimages/217/325/l/80/1-3796832526"
+      },
+      {
+        "id": 2,
+        "name": "10486 E Ririe Hwy, Idaho Falls, ID, 83401, Bonneville County",
+        "price": "$45400",
+        "size": "100acres",
+        "img": "https://img.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1103i215%2Fzyjh3qpvyzczm0p7vexrb419s7i215&option=N&h=472&permitphotoenlargement=false"
+      },
+      {
+        "id": 3,
+        "name": "Willow Creek Estancia 16401 Calle Feliz, Rancho Santa Fe, CA 92067",
+        "price": "$98,500,000",
+        "size": "150acres",
+        "img": "https://img.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1194i215%2Fx0aqpcye9dn8mqeksfjc3gfvr7i215&option=N&idlisting=listingmedia&w=1024&permitphotoenlargement=false&fallbackimageurl=https%3A%2F%2Fstatic-sir-pacific-production-2.gtsstatic.net%2Fresources%2F_responsive%2Fimages%2Fcommon%2Fnophoto%2Flisting.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Arabian Ranches 1",
+        "price": "$655,000",
+        "size": "10acres",
+        "img": "https://manage.tanamiproperties.com/Township/Township_Image/20/Thumb/20.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Arabian Ranches 2",
+        "price": "$7,000,000",
+        "size": "120acres",
+        "img": "https://www.propertyfinder.ae/property/68dc7eff21c9ea0ca514ea7f2a64b464/260/185/MODE/01a3cd/9016554-621b4o.webp?ctr=ae"
+      },
+      {
+        "id": 6,
+        "name": "Valley View Ranch, TX, 80001, Kendall County",
+        "price": "$59805000",
+        "size": "400acres",
+        "img": "https://assets.landwatch.com/resizedimages/600/0/h/80/w/1-4098554271"
+      },
+      {
+        "id": 7,
+        "name": "5425 Greenwich Pike Lexington, Kentucky 40511 United States",
+        "price": "2888990",
+        "size": "100acres",
+        "img": "https://img.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1103i215%2F0gzr18zv998q4kaq9tj3w9ymx5i215&option=N&idlisting=listingmedia&w=1024&permitphotoenlargement=false&fallbackimageurl=https%3A%2F%2Fstatic-sothebys-bgsir-production-2.gtsstatic.net%2Fresources%2F_responsive%2Fimages%2Fcommon%2Fnophoto%2Flisting.jpg"
+      }
+    ]
+    }
